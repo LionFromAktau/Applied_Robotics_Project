@@ -2,4 +2,4 @@
 Applied Robotics final project
 
 [Video about how to run the code](https://www.youtube.com/watch?v=sXX1tEVYenk)
-[Video about result of a project (Demonstration)](https://www.youtube.com/watch?v=KfGnLIP7Zw4)
+[\nVideo about result of a project (Demonstration)](https://www.youtube.com/watch?v=KfGnLIP7Zw4)
