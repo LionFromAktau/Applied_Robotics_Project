@@ -1,5 +1,5 @@
 # Applied_Robotics_Project
 Applied Robotics final project
 
-[![Watch the video]](https://www.youtube.com/watch?v=sXX1tEVYenk)
+[![Video about how to run the code](https://www.youtube.com/watch?v=sXX1tEVYenk)
 
